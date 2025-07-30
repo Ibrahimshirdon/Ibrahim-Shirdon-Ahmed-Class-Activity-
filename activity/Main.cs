@@ -1,6 +1,5 @@
 ﻿using System;
-2
-    using classLibrary1;    
+using classLibrary1;    
 
 namespace ConsoleApp1
 {
